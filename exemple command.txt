@@ -1,0 +1,1 @@
+wget -O 0332085M.cfg https://github.com/ateyainf/JoinEOLE/blob/main/0332085M.cfg?raw=true
